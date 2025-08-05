@@ -1,0 +1,7 @@
+flask
+serpapi
+langchain
+langchain-groq
+pandas
+pydantic
+python-dotenv
